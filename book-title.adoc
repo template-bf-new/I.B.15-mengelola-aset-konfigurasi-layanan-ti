@@ -1,0 +1,47 @@
+= Laporan Pengelolaan Aset dan Konfigurasi Layanan Teknologi Informasi
+
+[.text-center]
+Priyanto Tamami <tamami.oka@gmail.com>
+
+[.text-center]
+Badan Pendapatan Daerah +
+Pemerintah Kabupaten Brebes
+
+:doctype: article
+:author: tamami
+:source-highlighter: rouge
+:table-caption: Tabel 
+:sourcedir: src
+:includedir: contents
+:imagesdir: images
+:chapter-label: Bab
+:figure-caption: Gambar 
+:icons: font
+////
+Use this if you create a full cover in one page
+:front-cover-image: image::./images/title_page.png[]
+////
+//:title-logo-image: images/logo-zimera.png
+
+
+[preface]
+== Jenis _Configuration Item_ (CI)
+
+Some text to describe preface of the book. Some text to describe preface of the book. Some text to describe preface of the book. Some text to describe preface of the book. Some text to describe preface of the book.  Some text to describe preface of the book. Some text to describe preface of the book.
+
+== Deskripsi Fungsi / Isi dari _Configuration Item_ (CI)
+
+Fungsi atau isi yang menerangkan CI
+
+== Versi _Configuration Item_ (CI)
+
+Isi nya tipe perangkat keras, versi perangkat lunak, dan/atau versi dokumen
+
+== Status _Configuration Item_ (CI)
+
+Isi nya adalah tahap pengembangan, operasional, dalam perbaikan, atau sudah tidak digunakan
+
+== Histori Perubahan _Configuration Item_ (CI) 
+
+Isinya mencakup pencatatan perpindahan, pemutakhiran dan penambahan CI
+
